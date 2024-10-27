@@ -18,7 +18,7 @@ Vamos colaborar para construir um futuro mais tecnológico e eficiente! 💡
 <div align="center">
   <br>
   <p align="center" style="color:#0077B5"><b>Visitors Count</b></p>
-  <p align="center" style="color:#0077B5"><img align="center" src="https://github.com/yagoo-alphabeto/count.svg" /></p>
+  <p align="center" style="color:#0077B5"><img align="center" src="https://profile-counter.glitch.me/yagoo-alphabeto/count.svg" /></p>
   <br>
 </div>
 
