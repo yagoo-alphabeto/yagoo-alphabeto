@@ -26,7 +26,7 @@ Vamos colaborar para construir um futuro mais tecnológico e eficiente! 💡
 <!-- Seção de principais linguagens -->
 <!-- ## Principais Linguagens -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoo-alphabeto&layout=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoo-alphabeto&layout=compact)
 
 
 
@@ -45,7 +45,7 @@ Vamos colaborar para construir um futuro mais tecnológico e eficiente! 💡
 ## 📊 Estatísticas
 <div style="display: inline_block">
   <a href="https://github.com/yagoo-alphabeto">
-    <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=yagoo-alphabeto&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=yagoo-alphabeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
@@ -84,23 +84,3 @@ Vamos colaborar para construir um futuro mais tecnológico e eficiente! 💡
 
 
 
-
-
-
-
-## Hi there 👋
-
-<!--
-**yagoo-alphabeto/yagoo-alphabeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
