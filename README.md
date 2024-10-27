@@ -43,7 +43,7 @@ Vamos colaborar para construir um futuro mais tecnológico e eficiente! 💡
 
 
 ## 📊 Estatísticas
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/yagoo-alphabeto">
     <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=yagoo-alphabeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
