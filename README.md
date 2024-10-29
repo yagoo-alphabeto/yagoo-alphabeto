@@ -52,9 +52,9 @@ Bem-vindo ao meu perfil do GitHub, onde compartilho minha paixão por **dados**,
 </p>
 
 
-## 👥 Contador de Visitantes
+<!-- ## 👥 Contador de Visitantes -->
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=yagoo-alphabeto)
+![Visitantes](https://komarev.com/ghpvc/?username=yagoo-alphabeto&color=blue)
 
 
 ## 🌐 Conecte-se comigo
