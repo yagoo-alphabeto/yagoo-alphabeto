@@ -1,5 +1,5 @@
 <!-- Seção do cabeçalho -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077B5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yagoo+Pereira;Technology+Enthusiast+and+Data+Engineer;Welcome+to+My+GitHub!)](https://git.io/typing-svg)
 
@@ -65,3 +65,7 @@ Bem-vindo ao meu perfil do GitHub, onde compartilho minha paixão por **dados**,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engyagoopereira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/engyagoo/)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yagoo-alphabeto)
+
+
+<!-- Seção do rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
