@@ -1,6 +1,9 @@
-![Banner](https://via.placeholder.com/1024x200.png?text=Welcome+to+My+GitHub!)
+<!-- Seção do cabeçalho -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header"/>
 
-# Olá! Eu sou o Yagoo Pereira 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077B5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yagoo+Pereira;Technology+Enthusiast+and+Data+Engineer;Welcome+to+My+GitHub!)](https://git.io/typing-svg)
+
+##
 
 Bem-vindo ao meu perfil do GitHub, onde compartilho minha paixão por **dados**, **tecnologia** e **gestão**!
 
@@ -13,38 +16,45 @@ Bem-vindo ao meu perfil do GitHub, onde compartilho minha paixão por **dados**,
 
 🌟 **Vamos colaborar? Explore meus repositórios e entre em contato para construir o futuro juntos!**
 
+<br>
 
 ## 🛠 Tecnologias & Ferramentas
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 
-## 🚀 Projetos em Destaque
+
+
+<!-- ## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
 | [📊 Sistema de Gestão de Dados](https://github.com/seuprojeto) | Ferramenta para otimização de dados e relatórios executivos | Python, SQL |
 | [🌐 Website Interativo](https://github.com/seuprojeto) | Website focado em UX com design responsivo | HTML, CSS, JavaScript |
-| [📈 Análise de Dados Financeiros](https://github.com/seuprojeto) | Dashboard interativo para análise financeira em tempo real | Python, Pandas, Jupyter |
+| [📈 Análise de Dados Financeiros](https://github.com/seuprojeto) | Dashboard interativo para análise financeira em tempo real | Python, Pandas, Jupyter | -->
 
 
 
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical" alt="Minhas Estatísticas" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=seunome&theme=radical" alt="Dias de Contribuição" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=yagoo-alphabeto&show_icons=true&theme=radical" alt="Minhas Estatísticas" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=yagoo-alphabeto&theme=radical" alt="Dias de Contribuição" />
 </p>
 
 
 ## 👥 Contador de Visitantes
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=seunome.seunome)
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=yagoo-alphabeto)
 
 
 ## 🌐 Conecte-se comigo
