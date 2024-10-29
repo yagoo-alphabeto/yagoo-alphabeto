@@ -47,14 +47,16 @@ Bem-vindo ao meu perfil do GitHub, onde compartilho minha paixão por **dados**,
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=yagoo-alphabeto&show_icons=true&theme=radical" alt="Minhas Estatísticas" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=yagoo-alphabeto&show_icons=true&theme=radical" alt="Minhas Estatísticas" /> <br>
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=yagoo-alphabeto&theme=radical" alt="Dias de Contribuição" />
 </p>
+
+![Visitantes](https://komarev.com/ghpvc/?username=yagoo-alphabeto&color=blue)
 
 
 <!-- ## 👥 Contador de Visitantes -->
 
-![Visitantes](https://komarev.com/ghpvc/?username=yagoo-alphabeto&color=blue)
+
 
 
 ## 🌐 Conecte-se comigo
