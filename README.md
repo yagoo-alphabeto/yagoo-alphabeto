@@ -51,8 +51,9 @@ Bem-vindo ao meu perfil do GitHub, onde compartilho minha paixão por **dados**,
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=yagoo-alphabeto&theme=radical" alt="Dias de Contribuição" />
 </p>
 
-![Visitantes](https://komarev.com/ghpvc/?username=yagoo-alphabeto&color=blue)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yagoo-alphabeto&color=blue" alt="Contador de Visitantes"/>
+</p>
 
 <!-- ## 👥 Contador de Visitantes -->
 
