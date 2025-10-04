@@ -110,25 +110,28 @@ Bem-vindo ao meu perfil do GitHub, onde compartilho minha paixão por **dados**,
 </p>
 
 
+<p align="center">
+  <!-- Views -->
+  <a href="https://komarev.com/ghpvc/?username=yagoo-alphabeto">
+    <img src="https://komarev.com/ghpvc/?username=yagoo-alphabeto&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
+  <!-- Contributors -->
+  <a href="https://github.com/yagoo-alphabeto/yagoo-alphabeto/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/yagoo-alphabeto/yagoo-alphabeto?label=CONTRIBUTORS&style=for-the-badge" alt="Contributors" />
+  </a>
+  <!-- Issues -->
+  <a href="https://github.com/yagoo-alphabeto/yagoo-alphabeto/issues">
+    <img src="https://img.shields.io/github/issues/yagoo-alphabeto/yagoo-alphabeto?label=ISSUES%20OPEN&style=for-the-badge" alt="Open issues" />
+  </a>
+  <!-- PRs -->
+  <a href="https://github.com/yagoo-alphabeto/yagoo-alphabeto/pulls">
+    <img src="https://img.shields.io/github/issues-pr/yagoo-alphabeto/yagoo-alphabeto?label=PULL%20REQUESTS%20OPEN&style=for-the-badge" alt="Open pull requests" />
+  </a>
+</p>
 
 
 
 
-
- <p align="center">
-   <a href="https://github.com/IMNascimento/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/IMNascimento/github-readme-stats" />
-    </a>
-    <a href="https://github.com/IMNascimento/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/IMNascimento/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/IMNascimento/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/IMNascimento/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://komarev.com/ghpvc/?username=yagoo-alphabeto&color=blue">
-      <img src="https://komarev.com/ghpvc/?username=yagoo-alphabeto&color=blue" alt="Contador de Visitantes"/>
-    </a>
-  </p>
 
 
 
