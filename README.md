@@ -109,7 +109,7 @@ Bem-vindo ao meu perfil do GitHub, onde compartilho minha paixão por **dados**,
   </picture>
 </p>
 
-![Snake dark](https://github.com/yagoo-alphabeto/forkSneak/blob/output/github-contribution-grid-snake-dark.svg?raw=1#gh-dark-mode-only)
+
 
 
 
