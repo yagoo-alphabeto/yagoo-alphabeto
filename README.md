@@ -98,11 +98,17 @@ Bem-vindo ao meu perfil do GitHub, onde compartilho minha paixão por **dados**,
 
 <p align="center">
   <picture>
+    <!-- Dark -->
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yagoo-alphabeto/forkSneak/blob/output/github-contribution-grid-snake-dark.svg?raw=1" />
+    <!-- Light -->
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/yagoo-alphabeto/forkSneak/blob/output/github-contribution-grid-snake.svg?raw=1" />
-    <img alt="Snake animation" src="https://github.com/yagoo-alphabeto/forkSneak/blob/output/github-contribution-grid-snake.svg?raw=1" width="900" />
+    <!-- Fallback + tamanho fixo -->
+    <img alt="Snake animation"
+         src="https://github.com/yagoo-alphabeto/forkSneak/blob/output/github-contribution-grid-snake.svg?raw=1"
+         width="880">
   </picture>
 </p>
+
 
 
 
